@@ -1,6 +1,9 @@
 # Hydrate
 Hydrate crawls a kubernetes cluster and generates a high level description of your deployments.
 
+## NOTICE: This project has migrated!
+New updates will be located at [microsoft/hydrate](https://github.com/microsoft/hydrate)
+
 ## Setup
 Ensure you are using Python 3.6 or a newer version.
 Include a "kubeconfig" file for your cluster in the same directory as hydrate.py,
